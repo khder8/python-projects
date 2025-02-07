@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) <!-- Replace with your license type -->
 
-This repository contains a collection of five fun and interactive Python projects. These projects are great for beginners to practice and improve their Python programming skills.
+This repository contains a collection of six fun and interactive Python projects. These projects are great for beginners to practice and improve their Python programming skills.
 
 ## Projects Included
 
